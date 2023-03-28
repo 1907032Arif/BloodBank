@@ -2,7 +2,7 @@ public class MyClass {
     private int myField;
 
     public MyClass(int myField) {
-        this.myField = myField;
+        this.myField = myField; // this is new branch comment
     }
 
     public int getMyField() {
