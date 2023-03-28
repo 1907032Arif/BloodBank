@@ -2,7 +2,11 @@ public class MyClass {
     private int myField;
 
     public MyClass(int myField) {
+<<<<<<< HEAD
         this.myField = myField; //This is master branch comment
+=======
+        this.myField = myField; // this is new branch comment
+>>>>>>> newbranch
     }
 
     public int getMyField() {
