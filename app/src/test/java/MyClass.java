@@ -10,6 +10,6 @@ public class MyClass {
     }
 
     public void setMyField(int myField) {
-        this.myField = myField; // this is first comment
+        this.myField = myField; //this is 2nd comment
     }
 }
